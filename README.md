@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/pyrogram/pyrogram">
+    <a href="https://github.com/Pradhap7A/pyrogram">
         <img src="https://docs.pyrogram.org/_static/pyrogram.png" alt="Pyrogram" width="128">
     </a>
     <br>
@@ -14,7 +14,7 @@
     </a>
     •
     <a href="https://t.me/pyrogram">
-        News
+
     </a>
 </p>
 
